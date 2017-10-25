@@ -5,10 +5,15 @@ You have arrived at my website.
 ### Enigma Bot
 
 Enigma Bot is a trademark for my bots that are available many social networks or chat platform.
+
 Youtube: [Enigma Bot](https://www.youtube.com/channel/UC89r9Aw9RUJRfDBlkK87F3A)
+
 Google+ [Enigma Bot](https://plus.google.com/104312482912565328534)
+
 Skype: **Addison A.**
+
 Telegram: [Telegma](t.me/telegmaBot)
+
 
 ```markdown
 Syntax highlighted code block
