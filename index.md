@@ -2,9 +2,9 @@
 
 You have arrived at my website.
 
-### Markdown
+### Enigma Bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Enigma Bot is a trademark for my bots that are available many social networks or chat platform.
 
 ```markdown
 Syntax highlighted code block
