@@ -10,6 +10,8 @@ Youtube: [Enigma Bot](https://www.youtube.com/channel/UC89r9Aw9RUJRfDBlkK87F3A)
 
 Google+ [Enigma Bot](https://plus.google.com/104312482912565328534)
 
+Email: [enigmabot6710@gmail.com](mailto:enigmabot6710@gmail.com)
+
 Skype: **Addison A.**
 
 Telegram: [Telegma](t.me/telegmaBot)
