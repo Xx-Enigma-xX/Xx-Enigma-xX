@@ -14,7 +14,7 @@ Email: [enigmabot6710@gmail.com](mailto:enigmabot6710@gmail.com)
 
 Skype: **Addison A.**
 
-Telegram: [Telegma](t.me/telegmaBot)
+Telegram: [Telegma](https://t.me/telegmaBot)
 
 Discord: [Disgma](https://discordapp.com/oauth2/authorize?client_id=374036658196185098&scope=bot&permissions=3072)
 
