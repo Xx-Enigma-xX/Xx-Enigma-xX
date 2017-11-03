@@ -16,6 +16,8 @@ Skype: **Addison A.**
 
 Telegram: [Telegma](t.me/telegmaBot)
 
+Discord: [Disgma](https://discordapp.com/oauth2/authorize?client_id=374036658196185098&scope=bot&permissions=3072)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
