@@ -4,7 +4,7 @@ You have arrived at my website.
 
 ### Enigma Bot
 
-Enigma Bot is a trademark for my bots that are available many social networks or chat platform.
+Enigma Bot is my bot that is available in many social networks or chat platform.
 
 Youtube: [Enigma Bot](https://www.youtube.com/channel/UC89r9Aw9RUJRfDBlkK87F3A)
 
