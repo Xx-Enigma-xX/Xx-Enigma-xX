@@ -18,6 +18,10 @@ Telegram: [Telegma](https://t.me/telegmaBot)
 
 Discord: [Disgma](https://discordapp.com/oauth2/authorize?client_id=374036658196185098&scope=bot&permissions=3072)
 
+### Developer Preview
+
+Discord: [Devgma](https://discordapp.com/oauth2/authorize?client_id=379701466484703232&scope=bot&permissions=3072)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
